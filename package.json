@@ -1,0 +1,22 @@
+{
+  "name": "undersouce_code-analyze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenqiao0716/backbone_code-analyze.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenqiao0716/backbone_code-analyze/issues"
+  },
+  "homepage": "https://github.com/chenqiao0716/backbone_code-analyze#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
